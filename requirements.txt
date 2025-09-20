@@ -1,0 +1,9 @@
+torch
+transformers
+openai
+langchain
+supabase
+fastapi
+uvicorn
+streamlit
+docker
